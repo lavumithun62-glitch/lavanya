@@ -1,0 +1,27 @@
+Project Name: Hospital API
+
+Tools used: Python, Fast-API, 
+Editor: Visual Studio Code
+
+Setup Instructions:
+
+1. Create a folder 
+
+2. Open the folder using Visual Studio Code
+
+3. Open Terminal
+
+4. Install fast-api framework using the command "pip install fastapi[standard]"
+
+5. Open extensions on the left tab and type fast-api extensions and install it
+
+6. Create a python folder main.py and type the required codes
+
+7. Finally run the code by pressing F5 and select the debugger as fast-api
+
+8. Then at the terminal open the link http://127.0.0.1:8000/ to open the browser
+
+9. Then open http://127.0.0.1:8000/docs to view the API
+
+10. To stop the server press contol + C at the terminal
+    
